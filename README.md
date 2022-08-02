@@ -1,3 +1,6 @@
+This is a basic cryptocurrecny value tracking project made with React and uses the CoinGecko API 
+https://www.coingecko.com/en/api/documentation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
